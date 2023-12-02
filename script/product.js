@@ -32,3 +32,11 @@ main.addEventListener('click', function(){
         add(event.target.value)
     }
 })
+
+
+// search function
+// use toLowerCase to fix case sensitivity
+    // let a = items.filter(item => {
+    //     return item.name == 'Nike Shoe'
+
+    // })
