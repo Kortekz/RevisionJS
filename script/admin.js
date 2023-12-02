@@ -17,6 +17,7 @@ let object1 = {
 
 // Constructor function
 // function to create objects
+// add quantity
 function Constructor(id, name, description, price, url){
     this.id = id,
     this.name = name,
